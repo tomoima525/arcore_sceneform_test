@@ -15,5 +15,6 @@
    limitations under the License.
 -->
 <resources>
-    <string name="app_name">Hello Sceneform</string>
+    <string name="app_name">Hello Scene form</string>
+    <string name="shadow_direction">shadow direction</string>
 </resources>
